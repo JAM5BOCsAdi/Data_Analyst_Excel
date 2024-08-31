@@ -1,6 +1,6 @@
 <h1>Data Analyst Excel</h1>
 
-<h2>Links for other Data Analyst Projects:</h2>
+<h2>Links for other Data Analyst Project(s):</h2>
 
 <p>Data Analyst Projects: <a href="https://github.com/JAM5BOCsAdi/Data_Analyst_Projects">Click here</a></p>
 <p>Data Analyst Python: <a href="https://github.com/JAM5BOCsAdi/Data_Analyst_Python">Click here</a></p>
@@ -19,16 +19,16 @@
 <p>I am continuously learning new things to be better.</p>
 -->
 
-| | |
-|:-------------------------:|:-------------------------:|
-|<img height="400 px" src=""> | <img height="400 px" src=""> |
-|<img height="400 px" src=""> | <img height="400 px" src=""> |
-|<img height="400 px" src=""> | <img height="400 px" src=""> |
+|                              |                              |
+| :--------------------------: | :--------------------------: |
+| <img height="400 px" src=""> | <img height="400 px" src=""> |
+| <img height="400 px" src=""> | <img height="400 px" src=""> |
+| <img height="400 px" src=""> | <img height="400 px" src=""> |
 
 <!--
 | | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
-|<img height="400 px" src=""> | <img height="400 px" src=""> | <img height="400 px" src=""> | <img height="400 px" src=""> | 
+|<img height="400 px" src=""> | <img height="400 px" src=""> | <img height="400 px" src=""> | <img height="400 px" src=""> |
 |<img height="400 px" src=""> | <img height="400 px" src=""> | <img height="400 px" src=""> | <img height="400 px" src=""> |
 |<img height="400 px" src=""> | <img height="400 px" src=""> | <img height="400 px" src=""> | <img height="400 px" src=""> |
 -->
